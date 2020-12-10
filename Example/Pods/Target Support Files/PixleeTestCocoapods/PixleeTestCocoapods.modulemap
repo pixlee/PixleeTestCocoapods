@@ -1,0 +1,6 @@
+framework module PixleeTestCocoapods {
+  umbrella header "PixleeTestCocoapods-umbrella.h"
+
+  export *
+  module * { export * }
+}

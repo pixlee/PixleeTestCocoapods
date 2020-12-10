@@ -1,0 +1,16 @@
+PODS:
+  - PixleeTestCocoapods (0.1.0)
+
+DEPENDENCIES:
+  - PixleeTestCocoapods (from `../`)
+
+EXTERNAL SOURCES:
+  PixleeTestCocoapods:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PixleeTestCocoapods: 1e4ee9d6413db429a383e4a2495b17108b4574ef
+
+PODFILE CHECKSUM: d0693e727104eb7e451a4ba7824142a9626f57a0
+
+COCOAPODS: 1.9.3

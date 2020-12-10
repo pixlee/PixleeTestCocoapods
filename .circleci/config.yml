@@ -4,10 +4,15 @@ workflows:
   build-deploy:
     jobs:
       - build
+          filters:
+            branches:
+              only: /.*/
       - deploy:
           filters:
             tags:
               only: /.*/
+            branches:
+              ignore:  /.*/
               
 jobs: 
   build:

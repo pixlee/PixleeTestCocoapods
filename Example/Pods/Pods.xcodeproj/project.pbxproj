@@ -48,6 +48,7 @@
 		46E78DE80D5AB06A2E45F45B12C88CA5 /* Pods-PixleeTestCocoapods_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-PixleeTestCocoapods_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
 		5592209E096E720D1B85765CD7AA84DE /* Pods-PixleeTestCocoapods_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-PixleeTestCocoapods_Example-umbrella.h"; sourceTree = "<group>"; };
 		58E412B6E27F20C2DC1BECE8F676ECC1 /* Pods-PixleeTestCocoapods_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-PixleeTestCocoapods_Tests-dummy.m"; sourceTree = "<group>"; };
+		5C03234825C8FF1A006622F7 /* config.yml */ = {isa = PBXFileReference; lastKnownFileType = text.yaml; name = config.yml; path = .circleci/config.yml; sourceTree = "<group>"; };
 		5C3BA5FE330325C52D22EC3C15B313E6 /* Pods-PixleeTestCocoapods_Example-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-PixleeTestCocoapods_Example-Info.plist"; sourceTree = "<group>"; };
 		5DD2DD69D9169DFA369C35A922366EBD /* Pods-PixleeTestCocoapods_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-PixleeTestCocoapods_Example-frameworks.sh"; sourceTree = "<group>"; };
 		5F87C02ACC34882DCEE988B9B4E20DD2 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
@@ -103,6 +104,7 @@
 		129C5934F4042BFB802EC51D03860276 /* Pod */ = {
 			isa = PBXGroup;
 			children = (
+				5C03234825C8FF1A006622F7 /* config.yml */,
 				F9EB783AC528B1F7907EDDD6FCDE277F /* LICENSE */,
 				E0716707D87B4F43DF95EC08A5D01C72 /* PixleeTestCocoapods.podspec */,
 				5F87C02ACC34882DCEE988B9B4E20DD2 /* README.md */,

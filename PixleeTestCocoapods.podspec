@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'PixleeTestCocoapods'
-  s.version          = ENV['LIB_VERSION'] || '1.0.0'
+  s.version          = ENV['CIRCLE_TAG'] || '1.0.0'
   s.summary          = 'This project will add a done button on your TextField and TextView.'
 
 # This description is used to generate tags and improve search results.

@@ -47,7 +47,7 @@ commands:
   deploy-cooapods:
     steps:
       - run:
-          name: deploy cooapods
+          name: deploy cooapods latest
           command:  |
             pod lib lint --allow-warnings
             pod trunk push --allow-warnings
